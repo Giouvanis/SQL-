@@ -30,12 +30,4 @@ This tool allows researchers to quickly query which bioinformatic pipeline is mo
 
 "Find all pipelines that have been successfully used with the 12S marker for fish biodiversity studies according to recent papers."
 
-Suggested Repository Details:
-Repository Name: eDNA-Metabarcoding-SQL-Database
 
-Description: A relational database schema for mapping genetic markers, bioinformatics pipelines, and supporting literature in metabarcoding research.
-
-How to make this repo "Pop":
-Add a Diagram: Since this is a database project, users love seeing an ER Diagram (Entity-Relationship). If you have one, or even a simple drawing of how the tables connect, upload it and put it in the README.
-
-Example Queries: Add a section called "Example Queries" in the README showing a basic SELECT statement that joins two tables. It proves your SQL skills are practical.
